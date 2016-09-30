@@ -1,4 +1,5 @@
 latimes*
 datacache*
+data_cache*
 savemmap
 testsavemmap
